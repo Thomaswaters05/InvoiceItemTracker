@@ -1,0 +1,6 @@
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTracker\bin\Debug\InvoiceItemTracker.exe.config
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTracker\bin\Debug\InvoiceItemTracker.exe
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTracker\bin\Debug\InvoiceItemTracker.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTracker\obj\Debug\InvoiceItemTracker.csprojResolveAssemblyReference.cache
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTracker\obj\Debug\InvoiceItemTracker.exe
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTracker\obj\Debug\InvoiceItemTracker.pdb

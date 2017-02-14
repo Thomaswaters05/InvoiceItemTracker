@@ -1,0 +1,8 @@
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\bin\Debug\InvoiceItemTrackerTests.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\bin\Debug\InvoiceItemTrackerTests.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\obj\Debug\InvoiceItemTrackerTests.csprojResolveAssemblyReference.cache
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\obj\Debug\InvoiceItemTrackerTests.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\obj\Debug\InvoiceItemTrackerTests.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\bin\Debug\InvoiceItemTracker.exe
+c:\users\nssstudent\documents\visual studio 2015\Projects\InvoiceItemTracker\InvoiceItemTrackerTests\bin\Debug\InvoiceItemTracker.pdb
